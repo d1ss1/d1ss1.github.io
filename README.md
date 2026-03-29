@@ -18,3 +18,24 @@
 ## Играть
 
 👉 https://d1ss1.github.io
+-------------------------------------
+# 🎮 Guess the Number
+
+A simple browser game built with JavaScript.
+
+## How to play
+
+1. Open the site
+2. Enter a number from 1 to 100
+3. Click "Check"
+4. Get a hint — higher or lower
+
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+
+## Play
+
+👉 https://d1ss1.github.io
